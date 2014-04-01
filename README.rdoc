@@ -1,6 +1,21 @@
 == README
 
-This is a basic demo app using scaffolding
+This is a basic micro blog which allows users 
+to post short micro posts.
+
+user data model
+
+Users
+
+id = integer
+name = string
+email = string
+
+Microposts 
+
+id = integer
+content = string
+user_id = integer
 
 * Ruby version 2.0
 
