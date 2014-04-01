@@ -17,6 +17,15 @@ id = integer
 content = string
 user_id = integer
 
+Please note:
+
+No custom layout or styling
+No static pages (like “Home” or “About”)
+No user passwords
+No user images
+No signing in
+No security
+
 * Ruby version 2.0
 
 * Rails 4.0.4
